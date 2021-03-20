@@ -11,4 +11,4 @@
 
 ## Results
 - the following results of my analysis to confirm that there does not appear to be any sort of positivity bias. 
-[Results](../main/Resources/Results.png)
+![alt text](../main/Resources/Results.png) 
