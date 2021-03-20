@@ -7,7 +7,7 @@
 - Determine Bias of Vine Reviews and perform the analysis from [vine_table.csv](../main//Resources/vine_table.csv.zip)
   - The total Vine members are 463, and non-Vine members are 25,094.
   - Vine members with 5 stars are 202, and non-Vine members with 5 stars are 12,033.
-  - The percentage of 5-star Vine members are 43.62%, and non-Vine members are 44% and 47.95%.
+  - The percentage of 5-star Vine members are 43.62%, and non-Vine members are 47.95%.
 
 ## Results
 - The following results of my analysis confirm that there does not appear to be any sort of positivity bias. 
