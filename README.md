@@ -10,5 +10,5 @@
   - The percentage of 5-star Vine members are 43.62%, and non-Vine members are 44% and 47.95%.
 
 ## Results
-- the following results of my analysis to confirm that there does not appear to be any sort of positivity bias. 
+- The following results of my analysis to confirm that there does not appear to be any sort of positivity bias. 
 ![alt text](../main/Resources/Results.png) 
